@@ -1,12 +1,6 @@
 *, *:before, *:after{
 	box-sizing: border-box;
 }
-@font-face{
-	font-family: 'Gilroy';
-	src: url("../fonts/Gilroy-ExtraBold.otf");
-	font-style: normal;
-  font-weight: normal;
-
 }
 body, h2 {
 	color: #262525;
